@@ -1,4 +1,4 @@
-const names = ['Carlos Damian'];
+const names = ['Carlos Damian','Paulo Rosas'];
 
 const printNames = (arr) => {
   arr.forEach((element) => {

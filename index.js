@@ -7,3 +7,4 @@ const printNames = (arr) => {
 };
 
 printNames(names);
+

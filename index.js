@@ -7,9 +7,9 @@ const names = [
   "Gustavo Ceballos",
   "Eduardo Larios",
   'Maximiliano Reyes'
-  'José Enrique'
+  'José Enrique',
+  'Paulo Rosas'
 ];
-
 
 const printNames = (arr) => {
   arr.forEach((element) => {
